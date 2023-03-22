@@ -1,5 +1,5 @@
 # web503-asm
 
-# set up local
-'npm run start'
-'npx tsx --watch'
+# set up project
+``npm run start``
+``npx tsx --watch``
